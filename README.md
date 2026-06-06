@@ -1,18 +1,48 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=EJ%20L.%20Supremo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-**ihjayy/ihjayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 **Information Technology** Student at **Our Lady of Fatima University - Antipolo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring **Full Stack Developer**
 
-<h1 style="text-align: center;">EJ L. Supremo</h1>
+🎨 Passionate about **Graphic Design**
+
+📍 Philippines
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://instagram.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://facebook.com/yourusername">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
+  </a>
+
+---
+
+## 🎨 Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/>  
+  <img src="https://img.icons8.com/fluency/48/canva.png"/>
+</p>
+
+---
+
+## 💻 Current Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
