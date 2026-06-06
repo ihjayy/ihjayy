@@ -15,15 +15,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ejsupremo2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/ihjxyyy/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://facebook.com/yourusername">
+  <a href="https://www.facebook.com/ejsupremo04">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
   </a>
 
