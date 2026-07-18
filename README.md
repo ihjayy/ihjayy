@@ -27,6 +27,10 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
   </a>
 
+  <a href="tiktok.com/@_ihjayyy">
+    <img src="https://cdn.simpleicons.org/tiktok" width="48" height="48" />
+  </a>
+
 ---
 
 ## 🎨 Design Tools
