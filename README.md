@@ -50,7 +50,9 @@
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
