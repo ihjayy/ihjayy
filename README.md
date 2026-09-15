@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=EJ%20L.%20Supremo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=200&section=header&text=EJ%20L.%20Supremo&fontSize=40&fontColor=000000&animation=fadeIn"/>
 
 ## 🚀 About Me
 
@@ -7,8 +7,6 @@
 💻 Aspiring **Full Stack Developer**
 
 🎨 Passionate about **Graphic Design**
-
-📍 Philippines
 
 ---
 
@@ -27,10 +25,6 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" />
   </a>
 
-  <a href="tiktok.com/@_ihjayyy">
-    <img src="https://cdn.simpleicons.org/tiktok" width="48" height="48" />
-  </a>
-
 ---
 
 ## 🎨 Design Tools
@@ -43,17 +37,24 @@
 
 ---
 
-## 💻 Current Tech Stack
+## Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
+
+## Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=expressjs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=120&section=footer"/>
