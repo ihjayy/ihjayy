@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=200&section=header&text=EJ%20L.%20Supremo&fontSize=40&fontColor=000000&animation=fadeIn"/>
 
-## 🚀 About Me
+## About Me
 
 🎓 **Information Technology** Student at **Our Lady of Fatima University - Antipolo**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:ejsupremo2004@gmail.com">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎨 Design Tools
+## Design Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
