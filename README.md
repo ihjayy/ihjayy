@@ -2,12 +2,7 @@
 
 ## About Me
 
-🎓 **Information Technology** Student at **Our Lady of Fatima University - Antipolo**
-
-💻 Aspiring **Full Stack Developer**
-
-🎨 Passionate about **Graphic Design**
-
+I'm a 4th-year BSIT student focused on growing as a developer through continuous learning and hands-on projects. I use GitHub to document my progress, explore new technologies, and build practical solutions as I work toward becoming a reliable full-stack developer.
 ---
 
 ## Connect With Me
