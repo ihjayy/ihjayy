@@ -1,10 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=200&section=header&text=EJ%20L.%20Supremo&fontSize=40&fontColor=000000&animation=fadeIn"/>
+<h1>EJ L. Supremo</h1>
 
 ## About Me
 
 <p>I'm a 4th-year BSIT student focused on growing as a developer through continuous learning and hands-on projects. I use GitHub to document my progress, explore new technologies, and build practical solutions as I work toward becoming a reliable full-stack developer.
 </p>
----
 
 ## Connect With Me
 
@@ -53,4 +52,3 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=120&section=footer"/>
