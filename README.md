@@ -42,6 +42,4 @@ This GitHub is a record of my journey — from learning the fundamentals to beco
 
 <div align="center">
 
-> `[ SYSTEM ]` **Quest:** Learn → Build → Improve → Level Up ⚔️
-
 </div>
