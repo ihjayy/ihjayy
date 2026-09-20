@@ -4,7 +4,7 @@
 
 ### `EJ Supremo` • 4th Year BSIT Student • Developer in Progress
 
-> **Leveling up one project at a time.**
+ **Leveling up one project at a time.**
 
 </div>
 
