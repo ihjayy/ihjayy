@@ -1,4 +1,4 @@
-<h1>EJ L. Supremo</h1>
+<h1 align="center">EJ L. Supremo</h1>
 
 ## About Me
 
