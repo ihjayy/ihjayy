@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚔️ SOLO LEVELING: DEVELOPER
+# EJ L. SUPREMO
 
-### `EJ Supremo` • 4th Year BSIT Student • Developer in Progress
+### 4th Year BSIT Student • Developer in Progress
 
  **Leveling up one project at a time.**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a 4th-year BSIT student focused on building practical projects, improving my development skills, and gaining real-world experience.
 
@@ -18,24 +18,24 @@ This GitHub is a record of my journey — from learning the fundamentals to beco
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### Languages
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
 
-### Frameworks & Libraries
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,python,express,mysql,postgresql" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode" />
 </p>
 
 ---
