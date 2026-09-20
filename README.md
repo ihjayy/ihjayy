@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm a 4th-year BSIT student focused on growing as a developer through continuous learning and hands-on projects. I use GitHub to document my progress, explore new technologies, and build practical solutions as I work toward becoming a reliable full-stack developer.
+<p>I'm a 4th-year BSIT student focused on growing as a developer through continuous learning and hands-on projects. I use GitHub to document my progress, explore new technologies, and build practical solutions as I work toward becoming a reliable full-stack developer.
+</p>
 ---
 
 ## Connect With Me
