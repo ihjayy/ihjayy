@@ -2,7 +2,7 @@
 
 # EJ L. SUPREMO
 
-### 4th Year BSIT Student • Developer in Progress
+### 4th Year BSIT Student • Full Stack Developer in Progress
 
  **Leveling up one project at a time.**
 
@@ -35,7 +35,7 @@ This GitHub is a record of my journey — from learning the fundamentals to beco
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,docker" />
 </p>
 
 ---
