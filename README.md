@@ -4,8 +4,6 @@
 
 ### 4th Year BSIT Student • Full Stack Developer in Progress
 
- **Leveling up one project at a time.**
-
 </div>
 
 ---
