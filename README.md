@@ -33,7 +33,7 @@ This GitHub is a record of my journey — from learning the fundamentals to beco
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,docker,linux" />
 </p>
 
 ---
