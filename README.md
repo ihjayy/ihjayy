@@ -2,7 +2,7 @@
 
 # EJ L. SUPREMO
 
-### 4th Year BSIT Student • Full Stack Developer in Progress
+### • Full Stack Developer in Progress
 
 </div>
 
