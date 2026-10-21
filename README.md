@@ -2,7 +2,7 @@
 
 # EJ L. SUPREMO
 
-### Full Stack Developer in Progress
+### Aspiring Full Stack Developer
 
 </div>
 
