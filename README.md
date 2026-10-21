@@ -27,7 +27,7 @@ This GitHub is a record of my journey — from learning the fundamentals to beco
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,express,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=php,java,python,express,mysql,postgresql" />
 </p>
 
 ### Tools
