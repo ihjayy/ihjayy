@@ -1,43 +1,60 @@
-<div align="center">
+# 👋 Hey, I'm EJ Supremo
 
-# EJ L. SUPREMO
+### BSIT Student • Web Developer • Future Full Stack Developer
 
-### Aspiring Full Stack Developer
+I'm a **BSIT student** passionate about building websites and applications, learning new technologies, and turning ideas into real-world projects.
 
-</div>
-
----
-
-## About Me
-
-I'm a 4th-year BSIT student focused on building practical projects, improving my development skills, and gaining real-world experience.
-
-This GitHub is a record of my journey — from learning the fundamentals to becoming a reliable full-stack developer.
+Currently, I'm focused on growing my skills in **frontend and backend development** while building projects and gaining real-world experience.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nextjs" />
 </p>
 
-### Backend
-
+### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,python,express,mysql,postgresql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,python,php" />
 </p>
 
 ---
 
-<div align="center">
+## 🛠️ What I'm Working On
 
-</div>
+- 🌱 Improving my full-stack development skills
+- 💻 Building real-world web projects
+- 🚀 Exploring modern web technologies
+- 🤝 Looking for opportunities to collaborate and gain experience
+- 🎯 Working toward becoming a trusted **Full Stack Developer**
+
+---
+
+## 📌 Featured Projects
+
+> More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihjayy&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihjayy&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with other developers.
+
+**Let's build something together. 🚀**
+
+---
+
+<p align="center">
+  <i>“Learning by building. Growing by doing.”</i>
+</p>
