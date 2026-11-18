@@ -1,4 +1,4 @@
-# Hey, I'm EJ Supremo
+# I'm EJ Supremo
 
 ### BSIT Student • Web Developer 
 
